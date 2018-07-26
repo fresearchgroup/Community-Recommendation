@@ -1,4 +1,4 @@
-tensorflow>=1.8.0
+tensorflow==1.5.1
 scipy>=1.1.0
 sh>=1.12.14
 numpy>=1.14.3
